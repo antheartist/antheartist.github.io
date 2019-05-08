@@ -254,6 +254,18 @@ border-radius: 0px 0px 12px 12px;
 	background-image: url("r12.jpg");
 }
 
+.r20:hover{
+	background-image: url("r7.gif");
+}
+.r2:hover{
+	background-image: url("r3.gif");
+}
+.r8:hover{
+	background-image: url("r4.gif");
+}
+.r14:hover{
+	background-image: url("r6.gif");
+}
 
 .r11{
 	position: absolute;
@@ -524,6 +536,12 @@ border-radius: 0px 0px 12px 12px;
 	border-radius: 0px 0px 0px 0px; 
 }
 
+.o13:hover{
+	background-image: url("o22.jpg");
+}
+.o14:hover{
+	background-image: url("o18.jpg");
+}
 
 
 .o14{
@@ -569,6 +587,10 @@ border-radius: 0px 0px 12px 12px;
 	background-repeat: no-repeat;
 	border-radius: 30px 0px 0px 0px; 
 }
+.b1:hover{
+	background-image: url("b20.gif");
+}
+
 
 .b2{
 	position: absolute;
@@ -626,6 +648,11 @@ border-radius: 0px 0px 12px 12px;
 	background-repeat: no-repeat;
 	border-radius: 0px 0px 0px 0px; 
 }
+
+.b5:hover{
+	background-image: url("b16.jpg");
+}
+
 
 .b6{
 	position: absolute;
@@ -760,12 +787,16 @@ border-radius: 0px 0px 12px 12px;
 	height: 220px; 
 	left: 980px;
 	top:300px;
-	background-image: url("b15.jpg");
+	background-image: url("b17.jpg");
 	background-size: cover; 
 	background-position: center bottom;
 	background-repeat: no-repeat;
 	border-radius: 0px 0px 0px 0px; 
 }
+.b15:hover{
+	background-image: url("b15.jpg");
+}
+
 
 .p1{
 	position: absolute;
@@ -816,7 +847,7 @@ border-radius: 0px 0px 12px 12px;
 	height: 220px; 
 	left: 320px;
 	top:80px;
-	background-image: url("p4.jpg");
+	background-image: url("p7.jpg");
 	background-size: cover; 
 	background-position: center bottom;
 	background-repeat: no-repeat;
@@ -830,7 +861,7 @@ border-radius: 0px 0px 12px 12px;
 	height: 220px; 
 	left: 540px;
 	top:80px;
-	background-image: url("p55.jpg");
+	background-image: url("p8.jpg");
 	background-size: cover; 
 	background-position: center bottom;
 	background-repeat: no-repeat;
@@ -843,7 +874,7 @@ border-radius: 0px 0px 12px 12px;
 	height: 220px; 
 	left: 760px;
 	top:80px;
-	background-image: url("p6.jpg");
+	background-image: url("p4.jpg");
 	background-size: cover; 
 	background-position: center bottom;
 	background-repeat: no-repeat;
@@ -860,7 +891,7 @@ border-radius: 0px 0px 12px 12px;
 	height: 220px; 
 	left: 980px;
 	top:80px;
-	background-image: url("p7.jpg");
+	background-image: url("p55.jpg");
 	background-size: cover; 
 	background-position: center bottom;
 	background-repeat: no-repeat;
@@ -874,7 +905,7 @@ border-radius: 0px 0px 12px 12px;
 	height: 220px; 
 	left: 320px;
 	top:300px;
-	background-image: url("p8.jpg");
+	background-image: url("p6.jpg");
 	background-size: cover; 
 	background-position: center bottom;
 	background-repeat: no-repeat;
@@ -1230,6 +1261,12 @@ border-radius: 0px 0px 12px 12px;
 	border-radius: 0px 0px 0px 0px; 
 }
 
+.y14:hover{
+	background-image: url("y17.jpg");
+}
+.y6:hover{
+	background-image: url("y19.gif");
+}
 
 
 
@@ -1303,6 +1340,9 @@ border-radius: 0px 0px 12px 12px;
 	background-position: center bottom;
 	background-repeat: no-repeat;
 	border-radius: 0px 0px 0px 0px; 
+}
+.y8:hover{
+	background-image: url("y20.gif");
 }
 
 .y9{
